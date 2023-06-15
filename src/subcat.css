@@ -1,0 +1,30 @@
+.headerSubcat{
+    color: #569DAA;
+    font-family: "Franklin Gothic Medium";
+    font-style: oblique
+}
+
+
+.clear{
+    background-color: yellowgreen;
+    box-shadow: 5px 5px;
+    border-radius: 25px;
+}
+
+.pannel{
+    box-shadow: 5px 5px;
+    border-radius: 25px;
+}
+
+.submit{
+    background-color: red;
+    box-shadow: 5px 10px;
+    border-radius: 25px;
+}
+
+.panell{
+    text-align: center;
+    color: #569DAA;
+    font-family: "Franklin Gothic Medium";
+    font-style: oblique
+}
